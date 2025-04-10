@@ -1,15 +1,2 @@
 def is_prime():
-    return
-
-
-
-
-
-
-
-
-
-
-
-
-
+    pass
