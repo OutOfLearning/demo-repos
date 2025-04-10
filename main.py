@@ -1,5 +1,9 @@
 def is_prime():
-    return
+    """
+    it is just for testing purpose
+    """
+    pass
+    
 
 
 
